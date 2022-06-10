@@ -1,14 +1,12 @@
 :root{
     --transition: all .5s ease;
     --persian-red : #ce3232;
-    --dark:#363636;
+    --dark: green;
     --grey:grey;
     --lightGrey :lightgrey;
     
     --Poppins : 'Poppins', sans-serif;
-    --Mont:'Monstserrat',sans-serif;
-    
-    
+    --Mont:'Monstserrat',sans-serif; 
     
     }
     *{
